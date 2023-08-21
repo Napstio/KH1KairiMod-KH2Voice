@@ -1,0 +1,487 @@
+title: KH2 voice for Kairi
+originalAuthor: Napstio
+description: Will give Kairi her kh2 voice by Hayden Panettiere
+game: kh1
+specifications: 0
+dependencies: 
+assets:
+- name: remastered\voice\di_sora.vsb\di_sora.win32.scd
+  method: copy
+  platform: pc
+  package: kh1_first
+  multi: 
+  source:
+  - name: remastered\voice\di_sora.vsb\di_sora.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\voice\tw_sora.vsb\tw_sora.win32.scd
+  method: copy
+  platform: pc
+  package: kh1_first
+  multi: 
+  source:
+  - name: remastered\voice\tw_sora.vsb\tw_sora.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\voice\event\he\he_050.vset\he2401sr.win32.scd
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  multi: 
+  source:
+  - name: remastered\voice\event\he\he_050.vset\he2401sr.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\voice\event\he\he_050.vset\he2402sr.win32.scd
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  multi: 
+  source:
+  - name: remastered\voice\event\he\he_050.vset\he2402sr.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\voice\event\he\he_050.vset\he2403sr.win32.scd
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  multi: 
+  source:
+  - name: remastered\voice\event\he\he_050.vset\he2403sr.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\voice\event\he\he_050.vset\he2404sr.win32.scd
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  multi: 
+  source:
+  - name: remastered\voice\event\he\he_050.vset\he2404sr.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\voice\event\he\he_050.vset\he2411sr.win32.scd
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  multi: 
+  source:
+  - name: remastered\voice\event\he\he_050.vset\he2411sr.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\voice\event\he\he_050.vset\he2412sr.win32.scd
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  multi: 
+  source:
+  - name: remastered\voice\event\he\he_050.vset\he2412sr.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\voice\event\he\he_050.vset\he2417sr.win32.scd
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  multi: 
+  source:
+  - name: remastered\voice\event\he\he_050.vset\he2417sr.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\voice\ew_sora.vsb\ew_sora.win32.scd
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  multi: 
+  source:
+  - name: remastered\voice\ew_sora.vsb\ew_sora.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\voice\he_sora.vsb\he_sora.win32.scd
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  multi: 
+  source:
+  - name: remastered\voice\he_sora.vsb\he_sora.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\voice\lm_sora.vsb\lm_sora.win32.scd
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  multi: 
+  source:
+  - name: remastered\voice\lm_sora.vsb\lm_sora.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\voice\nm_sora.vsb\nm_sora.win32.scd
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  multi: 
+  source:
+  - name: remastered\voice\nm_sora.vsb\nm_sora.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\voice\pc_sora.vsb\pc_sora.win32.scd
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  multi: 
+  source:
+  - name: remastered\voice\pc_sora.vsb\pc_sora.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\voice\pi_sora.vsb\pi_sora.win32.scd
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  multi: 
+  source:
+  - name: remastered\voice\pi_sora.vsb\pi_sora.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\voice\po_sora.vsb\po_sora.win32.scd
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  multi: 
+  source:
+  - name: remastered\voice\po_sora.vsb\po_sora.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\voice\pp_sora.vsb\pp_sora.win32.scd
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  multi: 
+  source:
+  - name: remastered\voice\pp_sora.vsb\pp_sora.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\voice\tz_sora.vsb\tz_sora.win32.scd
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  multi: 
+  source:
+  - name: remastered\voice\tz_sora.vsb\tz_sora.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\voice\al_sora.vsb\al_sora.win32.scd
+  method: copy
+  platform: pc
+  package: kh1_third
+  multi: 
+  source:
+  - name: remastered\voice\al_sora.vsb\al_sora.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\voice\aw_sora.vsb\aw_sora.win32.scd
+  method: copy
+  platform: pc
+  package: kh1_third
+  multi: 
+  source:
+  - name: remastered\voice\aw_sora.vsb\aw_sora.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
